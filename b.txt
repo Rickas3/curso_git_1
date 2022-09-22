@@ -1,3 +1,8 @@
 testando atualizacao do
+<<<<<<< HEAD
 atualizacaob
 c
+=======
+af f fdgjdj 
+a
+>>>>>>> main

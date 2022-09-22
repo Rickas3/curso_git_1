@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Testando REPO teste
 a
 b
 c
 d
 v
+=======
+Testando REPO teste jfjgkr k 
+>>>>>>> main
